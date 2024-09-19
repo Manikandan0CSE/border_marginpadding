@@ -1,0 +1,91 @@
+header{
+    text-align: center;
+    
+}
+.asd{
+    margin: auto;
+    border: 1px solid black ;
+    height: 150px;
+    width: 300px;
+    padding: 40px 20px 60px 20px;
+}
+#bu{
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    background-color: blue;
+    border-radius: 5px;
+    height: 30px;
+    width: 300px;
+    border-style: none;
+    
+}
+p{
+    border-bottom: 1px solid black;
+}
+#ji{
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+    background-color: rgb(20, 124, 11);
+    border-radius: 5px;
+    height: 30px;
+    width: 150px;
+    border-style: none;
+
+}
+div {
+    border: 1px solid black;
+    width: 200px;
+    height: 100px;
+    margin: auto;
+    padding-top: 20px;
+
+}
+.le{
+    border: 1px solid black;
+    width: 150px;
+    height: 65px;
+    margin: auto;
+    padding-top: 10px;
+}
+ .lo{
+    border: 1px solid black;
+    width: 100px;
+    height: 50px;
+    margin: auto;
+    padding-top: 5px;
+    text-align: center;
+}
+.a{
+    border: 1px solid black;
+    width: 150px;
+    height: 80px;
+    margin: auto;
+}
+ .b{
+    border: 1px solid black;
+    width: 75px;
+    height: 40px;
+    margin: auto;
+    
+
+}
+.c{
+    border: 1px solid black;
+    width: 35px;
+    height: 20px;
+    margin: auto;
+    padding:10px 10px 10px 10px;
+
+}
+#name{
+    height: 30px;
+    width: 300px;
+    border-style: 0px 0px 1px 0px;
+
+}
+#pass{
+    height: 30px;
+    width: 300px;
+}
